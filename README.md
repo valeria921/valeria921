@@ -3,9 +3,9 @@ I'm diving into the tech world with curiosity, creativity, and the kind of stubb
 
 Right now, I'm looking for a junior developer role where I can grow, learn from a team, and also bring my ideas to life.
 
-My main focus is backend development with Python, Django, and Django REST Framework.
-But I also build full-stack projects from scratch additionally using React.js, Tailwind, HTML, CSS.
-Git, and Docker are part of my daily toolbox too.
+My main focus is backend development with Python, Django and Django REST Framework.
+But I also build full-stack projects from scratch additionally using React.js, TailwindCSS, HTML, CSS.
+Git and Docker are part of my daily toolbox too.
 
 ### 🚀 What I’ve built so far:
 
