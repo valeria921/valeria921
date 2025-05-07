@@ -8,13 +8,15 @@ But I also build full-stack projects from scratch additionally using React.js, T
 Git, and Docker are part of my daily toolbox too.
 
 ### 🚀 What I’ve built so far:
-🔹 **[SnapFact](https://idonotlikedocker.com)** – a quirky full-stack app + Telegram bot that delivers random facts.
-Yes, it's live on a server. Yes, I named the domain like that on purpose as a little memory of deployment struggles 😄
+
+- **[SnapFact](https://idonotlikedocker.com)** – a quirky full-stack app + Telegram bot that delivers random facts.
+Yes, it's live on a server. Yes, I named the domain "idonotlikedocker.com" on purpose as a little memory of deployment struggles 😄
 (Spoiler: I do use Docker now and plan to keep using it.)
-🔹 Currently building a **car wash management system** – a full-stack app that helps manage everything inside a real car wash: orders, salaries, reports, and more.
+- Currently building a **car wash management system** – a full-stack app that helps manage everything inside a real car wash: orders, salaries, reports, and more.
 I’m deep in Django, DRF, and React.js, and I’m loving this challenge.
 
 ### 🧠 Currently learning more about:
+
 Every new feature I build teaches me something. I'm especially focused now on:
 - Advanced Django & DRF patterns
 - Clean code & better architecture
