@@ -9,7 +9,7 @@ Git and Docker are part of my daily toolbox too.
 
 ### 🚀 What I’ve built so far:
 
-- **[SnapFact](https://idonotlikedocker.com)** – a quirky full-stack app + Telegram bot that delivers random facts.
+- **[Portfolio](https://idonotlikedocker.com)** – website with a short intro and links to some of my projects - like SnapFact, a Stock Prediction App, a Telegram bot and my current Django+React.js project for managing a car wash business.
 Yes, it's live on a server. Yes, I named the domain "idonotlikedocker.com" on purpose as a little memory of deployment struggles 😄
 (Spoiler: I do use Docker now and plan to keep using it.)
 - Currently building a **car wash management system** – a full-stack app that helps manage everything inside a real car wash: orders, salaries, reports, and more.
