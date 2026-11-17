@@ -1,31 +1,14 @@
-## Hi, I’m Valeria 👩‍💻✨
-I'm diving into the tech world with curiosity, creativity, and the kind of stubbornness that makes me build full-stack apps.
+## Hi, I'm Valeria 👩‍💻
 
-Right now, I'm looking for a junior developer role where I can grow, learn from a team, and also bring my ideas to life.
+Full-Stack Software Engineer with a backend focus, based in Warsaw.
 
-My main focus is backend development with Python, Django and Django REST Framework.
-But I also build full-stack projects from scratch additionally using React.js, TailwindCSS, HTML, CSS.
-Git and Docker are part of my daily toolbox too.
+I work mainly with **Python (FastAPI, Django, DRF)** and **TypeScript/React**, building microservices, REST APIs, third-party integrations and automated workflows. I also use spec-driven, AI-assisted development in my daily work.
 
-### 🚀 What I’ve built so far:
+### 🛠 Tech stack
 
-- **[Portfolio](https://idonotlikedocker.com)** – website with a short intro and links to some of my projects - like SnapFact, a Stock Prediction App, a Telegram bot and my current Django+React.js project for managing a car wash business.
-Yes, it's live on a server. Yes, I named the domain "idonotlikedocker.com" on purpose as a little memory of deployment struggles 😄
-(Spoiler: I do use Docker now and plan to keep using it.)
-- Currently building a **car wash management system** – a full-stack app that helps manage everything inside a real car wash: orders, salaries, reports, and more.
-I’m deep in Django, DRF, and React.js, and I’m loving this challenge.
-
-### 🧠 Currently learning more about:
-
-Every new feature I build teaches me something. I'm especially focused now on:
-- Advanced Django & DRF patterns
-- Clean code & better architecture
-
-### ✨ About me:
-
-Creative by nature, problem-solver by instinct.  
-I don’t overthink “Can I do this?” — I just start, figure things out, and finish.
-That mindset helps me say “YES” to bold ideas (like the car washing project) and actually make them real.
-Challenges? I kind of enjoy them 😁
-
-📬 [Let’s connect on LinkedIn](https://www.linkedin.com/in/valeria-kruk/)
+**Backend:** Python · FastAPI · Django · DRF · SQLAlchemy · Celery
+**Frontend:** React · TypeScript · TailwindCSS
+**Data:** PostgreSQL · Redis · DynamoDB
+**Cloud & DevOps:** AWS · Docker · GitHub Actions
+**Testing:** PyTest · Playwright
+**AI:** Claude Code · OpenSpec · LLM integrations
